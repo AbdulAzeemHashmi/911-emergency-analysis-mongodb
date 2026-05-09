@@ -52,7 +52,7 @@ Six aggregation queries were executed against the live Atlas cluster to extract 
 ## How to Run
 1. **Clone the Repo:**
    ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+   git clone [https://github.com/AbdulAzeemHashmi/911-emergency-analysis-mongodb.git](https://github.com/AbdulAzeemHashmi/911-emergency-analysis-mongodb.git)
    ```
 2. **Install Dependencies:**
    ```bash
@@ -65,6 +65,6 @@ Six aggregation queries were executed against the live Atlas cluster to extract 
    * Run `python3 queries.py` to view analytical results.
 
 ---
-**Submitted by:** Abdul Azeem (Roll No: 24i-2013)  
+**Submitted by:** [Abdul Azeem](https://github.com/AbdulAzeemHashmi/) (Roll No: 24i-2013)  
 **Course:** Database Systems  
 **Submission Date:** April 30, 2026
